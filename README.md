@@ -1,7 +1,7 @@
 # Hello, everyone! 👋	
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-My name is Vanessa, I'm software developer with a passion for classical ballet 🩰, active participant in volunteer work, and passionate about playing the guitar 🎶!
+My name is Vanessa, I'm a software developer with a passion for classical ballet 🩰, active participant in volunteer work, and passionate about playing the guitar 🎶!
 
 My journey led me to the field of programming, where I recently began my studies in Back-End Software Development as a scholarship recipient from iFood, through the Cubos Academy platform!
 
